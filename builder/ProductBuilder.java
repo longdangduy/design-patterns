@@ -7,10 +7,10 @@ public class ProductBuilder {
 
     public ProductBuilder() {
 
-        model = new Product();
-        model.setCode("apple");
-        model.setName("Apple");
-        model.setStatus("active");
+        product = new Product();
+        product.setCode("apple");
+        product.setName("Apple");
+        product.setStatus("active");
     }
 
     public ProductBuilder withCode(String code) {
