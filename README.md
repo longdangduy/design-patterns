@@ -31,7 +31,7 @@ and how to provide lose coupling and flexibility to extend easily.
    + Observer ✨
    + State ✨
    + Strategy ✨
-   + Template Method 
+   + Template Method ✨
    + Visitor
 
 I marked ✨ for most frequenlty used patterns.
