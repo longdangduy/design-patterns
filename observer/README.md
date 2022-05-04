@@ -17,3 +17,6 @@ Define a one-to-many dependency between objects so that when one object changes 
  - Define interface Observer with method: update() which is called when state of Subject changing
  - Define class ConcreteSubject implement Observer
  
+ ![ObserverPattern](https://user-images.githubusercontent.com/36881424/166615873-16c56702-8b7e-4a83-aaee-ca34bf6ab701.jpg)
+
+ 
