@@ -26,5 +26,7 @@ This class can access its successor
 Other variant of Chain of Responsibility pattern is **Filter pattern**.
 Filter pattern is used when you want to execute some steps before/after handle request.
 This pattern is often used in authentication, authorization, logging. 
+
 Example:
+
 ![image](https://user-images.githubusercontent.com/36881424/167239646-11f50cb5-5710-49a0-8df6-a798a218d329.png)
